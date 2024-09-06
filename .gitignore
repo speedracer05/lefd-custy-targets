@@ -16,5 +16,6 @@ lepd_env/
 
 # Ignore OS-specific or IDE-specific files (optional)
 *.swp
+*.sh
 .idea/
 .vscode/
