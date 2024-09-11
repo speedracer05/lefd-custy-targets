@@ -4,14 +4,14 @@ Chicago Police Dept,Local police department,13354, , , , , ,3510 S Michigan, , ,
 Los Angeles Police Department,Local police department,9727, , , , , ,150 N. Los Angeles Street, , ,Los Angeles,CA,Los Angeles,90012, , , , ,6037,"150 N. Los Angeles Street, Los Angeles, CA 90012",34.051507,-118.241245
 Los Angeles County Sheriff's Office,Sheriff's office,9461, , , , , ,Unit 1,4700 W. Ramona Blvd., ,Monterey Park,CA,Los Angeles,91754, , , , ,6037,"Unit 1, Monterey Park, CA 91754",34.0472318,-118.1415261
 California Highway Patrol,Primary state law enforcement agency,7202, , , , , ,2555 First Ave, , ,Sacramento,CA,Sacramento,95818, , , , ,6067,"2555 First Ave, Sacramento, CA 95818",38.55623509999999,-121.4796074
-Philadelphia Police Department,Local police department,6624, , , , , ,523 Main Street, , ,Philadelphia,PA,Philadelphia,19136, , , , ,42101,"523 Main Street, Philadelphia, PA 19136",39.9183989,-75.2584046
+Philadelphia Police Department,Local police department,6624, , , , , ,523 Main Street, , ,Philadelphia,PA,Philadelphia,19136, , , , ,42101,"523 Main Street, Philadelphia, PA 19136",39.9178455,-75.2547214
 Cook County Sheriff's Office,Sheriff's office,5655, , , , , ,143 Gunflint Trail, , ,Chicago,IL,Cook,60602, , , , ,17031,"143 Gunflint Trail, Chicago, IL 60602",41.8781136,-87.6297982
 Houston Police Department,Local police department,5053, , , , , ,17000 Aldine Westfield, , ,Houston,TX,Harris,77073, , , , ,48201,"17000 Aldine Westfield, Houston, TX 77073",29.9668297,-95.36216350000001
 New York State Police,Primary state law enforcement agency,4847, , , , , ,Building 22,1220 Washington Avenue, ,Albany,NY,Albany,12226, , , , ,36001,"Building 22, Albany, NY 12226",42.6820502,-73.8088221
 Pennsylvania State Police,Primary state law enforcement agency,4458, , , , , ,1800 Elmerton Ave, , ,Harrisburg,PA,Dauphin,17110, , , , ,42043,"1800 Elmerton Ave, Harrisburg, PA 17110",40.2975963,-76.8601869
 Washington Metropolitan Police Department,Local police department,3742, , , , , ,300 Indiana Avenue NW, , ,Washington,DC,District of Columbia,20001, , , , ,11001,"300 Indiana Avenue NW, Washington, DC 20001",38.8941731,-77.0165485
 Texas Department of Public Safety,Primary state law enforcement agency,3529, , , , , ,"Attn: Cindy Torres, Hr",P O Box 4087, ,Austin,TX,Travis,78773, , , , ,48453,"Attn: Cindy Torres, Hr, Austin, TX 78773",30.32999999999999,-97.69999999999999
-Dallas Police Department,Local police department,3389, , , , , ,131 N. Gaston Avenue, , ,Dallas,TX,Dallas,75215, , , , ,48113,"131 N. Gaston Avenue, Dallas, TX 75215",32.8044938,-96.7641
+Dallas Police Department,Local police department,3389, , , , , ,131 N. Gaston Avenue, , ,Dallas,TX,Dallas,75215, , , , ,48113,"131 N. Gaston Avenue, Dallas, TX 75215",32.804804,-96.7637251
 Phoenix Police Department,Local police department,3388, , , , , ,Po Box 330, , ,Phoenix,AZ,Maricopa,85003, , , , ,4013,"Po Box 330, Phoenix, AZ 85003",33.4495511,-112.0789355
 Miami-Dade (County) Police Department,Local police department,3093, , , , , ,9105 N.W. 25Th Street, , ,Miami,FL,Miami-Dade,33172, , , , ,12086,"9105 N.W. 25Th Street, Miami, FL 33172",25.7984045,-80.34402589999999
 New Jersey State Police,Primary state law enforcement agency,3053, , , , , ,P.O. Box 7068; River Road, , ,West Trenton,NJ,Mercer,8628, , , , ,34021,"P.O. Box 7068; River Road, West Trenton, NJ 8628",40.4080369,-75.0418771
@@ -76,7 +76,7 @@ Washington State Patrol,Primary state law enforcement agency,1132, , , , , ,Po B
 Miami Police Department,Local police department,1104, , , , , ,P. O. Box 1206, , ,Miami,FL,Miami-Dade,33128, , , , ,12086,"P. O. Box 1206, Miami, FL 33128",25.7767549,-80.20284889999999
 Cincinnati Police Department,Local police department,1082, , , , , ,310 Ezzard Charles Drive, , ,Cincinnati,OH,Hamilton,45214, , , , ,39061,"310 Ezzard Charles Drive, Cincinnati, OH 45214",39.1095967,-84.5208748
 DeKalb County Police Department,Local police department,1074, , , , , ,1960 West Exchange Place, , ,Tucker,GA,DeKalb,30084, , , , ,13089,"1960 West Exchange Place, Tucker, GA 30084",33.8408368,-84.2457943
-Wayne County Sheriff's Office,Sheriff's office,1062, , , , , ,510 N Pearl St, , ,Detroit,MI,Wayne,48226, , , , ,26163,"510 N Pearl St, Detroit, MI 48226",42.3121397,-83.1315265
+Wayne County Sheriff's Office,Sheriff's office,1062, , , , , ,510 N Pearl St, , ,Detroit,MI,Wayne,48226, , , , ,26163,"510 N Pearl St, Detroit, MI 48226",42.312142,-83.1315273
 Georgia Department of Public Safety,Primary state law enforcement agency,1048, , , , , ,P.O. Box 1456, , ,Atlanta,GA,Fulton,30371, , , , ,13121,"P.O. Box 1456, Atlanta, GA 30371",33.75,-84.39
 Oklahoma City Police Department,Local police department,1046, , , , , ,701 Colcord Drive, , ,Okla. City,OK,Oklahoma,73102, , , , ,40109,"701 Colcord Drive, Okla. City, OK 73102",35.4689202,-97.524875
 Tucson Police Department,Local police department,1032, , , , , ,270 South Stone Street, , ,Tucson,AZ,Pima,85701, , , , ,4019,"270 South Stone Street, Tucson, AZ 85701",32.21744350000001,-110.9713127
@@ -172,7 +172,7 @@ Montgomery Police Department,Local police department,500, , , , , ,320 North Rip
 Fairfax County Sheriff's Office,Sheriff's office,499, , , , , ,4110 Chain Bridge Rd, , ,Fairfax,VA,Fairfax,22030, , , , ,51059,"4110 Chain Bridge Rd, Fairfax, VA 22030",38.8437621,-77.309071
 Brevard County Sheriff's Office,Sheriff's office,497, , , , , ,700 S Park Ave, , ,Titusville,FL,Brevard,32780, , , , ,12009,"700 S Park Ave, Titusville, FL 32780",28.6075022,-80.8199484
 Paterson Police,Local police department,497, , , , , ,111 Broadway, , ,Paterson,NJ,Passaic,7505, , , , ,34031,"111 Broadway, Paterson, NJ 7505",40.9190552,-74.1707366
-Johnson County Sheriff's Office,Sheriff's office,496, , , , , ,230 DONOVAN-HARRISON RD, , ,Olathe,KS,Johnson,66061, , , , ,20091,"230 DONOVAN-HARRISON RD, Olathe, KS 66061",38.8653874,-94.8157671
+Johnson County Sheriff's Office,Sheriff's office,496, , , , , ,230 DONOVAN-HARRISON RD, , ,Olathe,KS,Johnson,66061, , , , ,20091,"230 DONOVAN-HARRISON RD, Olathe, KS 66061",38.8653872,-94.8157502
 Durham Police Department,Local police department,494, , , , , ,86 Dover Road, , ,Durham,NC,Durham,27701, , , , ,37063,"86 Dover Road, Durham, NC 27701",35.9510198,-78.9518477
 Monmouth County Sheriff's Office,Sheriff's office,494, , , , , ,50 E Main St, , ,Freehold,NJ,Monmouth,7728, , , , ,34025,"50 E Main St, Freehold, NJ 7728",40.2612901,-74.2720062
 Wisconsin State Patrol,Primary state law enforcement agency,492, , , , , ,"4802 Sheboygan Avenue, Room 551",P.O. Box 7912, ,Madison,WI,Dane,53707, , , , ,55025,"4802 Sheboygan Avenue, Room 551, Madison, WI 53707",43.0744204,-89.4606416
@@ -263,7 +263,7 @@ Santa Ana Police Department,Local police department,369, , , , , ,60 Civic Cente
 Washington County Sheriff's Office,Sheriff's office,369, , , , , ,399 Broadway, , ,Hillsboro,OR,Washington,97123, , , , ,41067,"399 Broadway, Hillsboro, OR 97123",45.5201249,-122.9898227
 Lafayette Parish Sheriff's Office,Sheriff's office,367, , , , , ,316 W Main St,PO Drawer 3508, ,Lafayette,LA,Lafayette,70501, , , , ,22055,"316 W Main St, Lafayette, LA 70501",30.223113,-92.0215959
 North Carolina State Bureau of Investigation,Special jurisdiction,367, , , , , ,Po Box 29500, , ,Raleigh,NC,Wake,27626, , , , ,37183,"Po Box 29500, Raleigh, NC 27626",35.77,-78.64
-Adams County Sheriff's Office,Sheriff's office,364, , , , , ,313 S 1St St,PO Box 608, ,Brighton,CO,Adams,80601, , , , ,8001,"313 S 1St St, Brighton, CO 80601",39.9845805,-104.8222297
+Adams County Sheriff's Office,Sheriff's office,364, , , , , ,313 S 1St St,PO Box 608, ,Brighton,CO,Adams,80601, , , , ,8001,"313 S 1St St, Brighton, CO 80601",39.9845802,-104.8222281
 Arlington County Police Department,Local police department,364, , , , , ,1425 N. Courthouse Rd., , ,Arlington,VA,Arlington,22201, , , , ,51013,"1425 N. Courthouse Rd., Arlington, VA 22201",38.889881,-77.0831772
 Tallahassee Police Department,Local police department,364, , , , , ,234 East Seventh Avenue, , ,Tallahassee,FL,Leon,32303, , , , ,12073,"234 East Seventh Avenue, Tallahassee, FL 32303",30.4582454,-84.27917
 Reno Police Department,Local police department,362, , , , , ,Po Box 1900, , ,Reno,NV,Washoe,89505, , , , ,32031,"Po Box 1900, Reno, NV 89505",39.53,-119.81
@@ -279,7 +279,7 @@ Wake County Sheriff's Office,Sheriff's office,354, , , , , ,Po Box 550, , ,Ralei
 Columbia Police Department,Local police department,351, , , , , ,Po Box 10, , ,Columbia,SC,Richland,29201, , , , ,45079,"Po Box 10, Columbia, SC 29201",33.9873389,-81.0368211
 New Hampshire State Police,Primary state law enforcement agency,350, , , , , ,33 Hazen Dr,33 Hazel Dr., ,Concord,NH,Merrimack,3305, , , , ,33013,"33 Hazen Dr, Concord, NH 3305",43.2187293,-71.51267349999999
 Marion County Sheriff's Office,Sheriff's office,349, , , , , ,2715 E Highway 76 Ste C, , ,Ocala,FL,Marion,34478, , , , ,12083,"2715 E Highway 76 Ste C, Ocala, FL 34478",29.1871986,-82.14009229999999
-Elizabeth Police,Local police department,348, , , , , ,One Police Plaza, , ,Elizabeth,NJ,Union,7201, , , , ,34039,"One Police Plaza, Elizabeth, NJ 7201",40.6666895,-74.2128067
+Elizabeth Police,Local police department,348, , , , , ,One Police Plaza, , ,Elizabeth,NJ,Union,7201, , , , ,34039,"One Police Plaza, Elizabeth, NJ 7201",40.66669,-74.2128068
 Bakersfield Police Department,Local police department,348, , , , , ,1601 Truxtun Avenue, , ,Bakersfield,CA,Kern,93301, , , , ,6029,"1601 Truxtun Avenue, Bakersfield, CA 93301",35.3731395,-119.0206941
 Harris County Constable Pct. 4,Constable/marshal,346, , , , , ,6831 Cypresswood Dr,Attn: Lt. Walls, ,Spring,TX,Harris,77379, , , , ,48201,"6831 Cypresswood Dr, Spring, TX 77379",30.0118442,-95.5115587
 San Bernardino Police Department,Local police department,345, , , , , ,710 North D Street, , ,San Bernardino,CA,San Bernardino,92401, , , , ,6071,"710 North D Street, San Bernardino, CA 92401",34.1124314,-117.292334
@@ -310,7 +310,7 @@ Clackamas County Sheriff's Office,Sheriff's office,319, , , , , ,2223 Kaen Rd, ,
 Hennepin County Sheriff's Office,Sheriff's office,319, , , , , ,350 S 5Th St,Room 6 Courthouse, ,Minneapolis,MN,Hennepin,55415, , , , ,27053,"350 S 5Th St, Minneapolis, MN 55415",44.9772839,-93.2652365
 Harris County Constable Pct. 5,Constable/marshal,318, , , , , ,17423 Katy Freeway, , ,Houston,TX,Harris,77094, , , , ,48201,"17423 Katy Freeway, Houston, TX 77094",29.783774,-95.6824889
 Hollywood Police Department,Local police department,316, , , , , ,Post Office Box 308, , ,Hollywood,FL,Broward,33021, , , , ,12011,"Post Office Box 308, Hollywood, FL 33021",26.0197012,-80.1819268
-Alexandria Police Department,Local police department,315, , , , , ,8236 W. Main St., , ,Alexandria,VA,Alexandria City,22314, , , , ,51510,"8236 W. Main St., Alexandria, VA 22314",38.7999723,-77.0506896
+Alexandria Police Department,Local police department,315, , , , , ,8236 W. Main St., , ,Alexandria,VA,Alexandria City,22314, , , , ,51510,"8236 W. Main St., Alexandria, VA 22314",38.8048355,-77.0469214
 Monterey County Sheriff's Office,Sheriff's office,315, , , , , ,1414 Natividad Rd, , ,Salinas,CA,Monterey,93906, , , , ,6053,"1414 Natividad Rd, Salinas, CA 93906",36.7011471,-121.6307691
 New Hanover County Sheriff's Office,Sheriff's office,315, , , , , ,3950 Juvenile Center Rd, , ,Castle Hayne,NC,New Hanover,28429, , , , ,37129,"3950 Juvenile Center Rd, Castle Hayne, NC 28429",34.325154,-77.89455099999999
 Amarillo Police Department,Local police department,311, , , , , ,200 E. Third Avenue, , ,Amarillo,TX,Potter,79101, , , , ,48375,"200 E. Third Avenue, Amarillo, TX 79101",35.2109392,-101.8377922
@@ -423,12 +423,12 @@ Jefferson County Sheriff's Office,Sheriff's office,239, , , , , ,16001 State Rou
 Clarksville Police Department,Local police department,238, , , , , ,800 W. Main Street, , ,Clarksville,TN,Montgomery,37040, , , , ,47125,"800 W. Main Street, Clarksville, TN 37040",36.3228502,-87.7331079
 Pembroke Pines Police Department,Local police department,238, , , , , ,9500 Pines Boulevard, , ,Pembroke Pines,FL,Broward,33024, , , , ,12011,"9500 Pines Boulevard, Pembroke Pines, FL 33024",26.0077665,-80.2713429
 South Carolina Department of Natural Resources,Special jurisdiction,238, , , , , ,Po Box 167, , ,Columbia,SC,Richland,29202, , , , ,45079,"Po Box 167, Columbia, SC 29202",34.0,-81.03999999999999
-Fall River Police Department,Local police department,237, , , , , ,641 South Main Street,P.O. Box 37, ,Fall River,MA,Bristol,2721, , , , ,25005,"641 South Main Street, Fall River, MA 2721",41.6957133,-71.16345869999999
+Fall River Police Department,Local police department,237, , , , , ,641 South Main Street,P.O. Box 37, ,Fall River,MA,Bristol,2721, , , , ,25005,"641 South Main Street, Fall River, MA 2721",41.6957156,-71.1634606
 Tulsa County Sheriff's Office,Sheriff's office,237, , , , , ,500 S Denver Ave, , ,Tulsa,OK,Tulsa,74103, , , , ,40143,"500 S Denver Ave, Tulsa, OK 74103",36.1546259,-95.99130679999999
 Dallas/Fort Worth International Airport D.P.S.,Special jurisdiction,237, , , , , ,P. O. Box 619428, , ,D/Fw Airport,TX,Dallas,75261, , , , ,48113,"P. O. Box 619428, D/Fw Airport, TX 75261",32.8990434,-97.0335765
 Portsmouth Police Department,Local police department,235, , , , , ,700 Crawford St., , ,Portsmouth,VA,Portsmouth City,23704, , , , ,51740,"700 Crawford St., Portsmouth, VA 23704",36.8336144,-76.2981223
 Torrance Police Department,Local police department,235, , , , , ,3300 Civic Center Drive, , ,Torrance,CA,Los Angeles,90503, , , , ,6037,"3300 Civic Center Drive, Torrance, CA 90503",33.8397829,-118.3424965
-Ramsey County Sheriff's Office,Sheriff's office,235, , , , , ,222 Walnut St W, , ,Saint Paul,MN,Ramsey,55101, , , , ,27123,"222 Walnut St W, Saint Paul, MN 55101",44.9391099,-93.1002344
+Ramsey County Sheriff's Office,Sheriff's office,235, , , , , ,222 Walnut St W, , ,Saint Paul,MN,Ramsey,55101, , , , ,27123,"222 Walnut St W, Saint Paul, MN 55101",44.9391053,-93.10022800000002
 Prince George's County Sheriff's Office,Sheriff's office,233, , , , , ,Po Box 548, , ,Upper Marlboro,MD,Prince Georges,20773, , , , ,24033,"Po Box 548, Upper Marlboro, MD 20773",38.82,-76.75
 Hampton Police Department,Local police department,232, , , , , ,40 Lincoln St., , ,Hampton,VA,Hampton City,23669, , , , ,51650,"40 Lincoln St., Hampton, VA 23669",37.0284797,-76.3440676
 Chatham County Sheriff's Office,Sheriff's office,232, , , , , ,1050 Carl Griffin Dr,PO Box 10026, ,Savannah,GA,Chatham,31405, , , , ,13051,"1050 Carl Griffin Dr, Savannah, GA 31405",32.0667768,-81.166573
@@ -540,13 +540,13 @@ Peoria Police Department,Local police department,189, , , , , ,8351 W. Cinnabar 
 Edison Police,Local police department,189, , , , , ,100 Municipal Boulevard, , ,Edison,NJ,Middlesex,8817, , , , ,34023,"100 Municipal Boulevard, Edison, NJ 8817",40.5273427,-74.3937286
 Monroe Police Department,Local police department,188, , , , , ,818 W Main, , ,Monroe,LA,Ouachita,71210, , , , ,22073,"818 W Main, Monroe, LA 71210",32.5,-92.11
 Cabarrus County Sheriff's Office,Sheriff's office,188, , , , , ,Po Box 525, , ,Concord,NC,Cabarrus,28026, , , , ,37025,"Po Box 525, Concord, NC 28026",35.4109398,-80.5777935
-Lake County Sheriff's Office,Sheriff's office,188, , , , , ,513 CENTER STREET, , ,Waukegan,IL,Lake,60085, , , , ,17097,"513 CENTER STREET, Waukegan, IL 60085",42.3706094,-87.83679509999999
+Lake County Sheriff's Office,Sheriff's office,188, , , , , ,513 CENTER STREET, , ,Waukegan,IL,Lake,60085, , , , ,17097,"513 CENTER STREET, Waukegan, IL 60085",42.3706101,-87.8367953
 Boca Raton Police Department,Local police department,188, , , , , ,100 N.W. 2Nd Avenue, , ,Boca Raton,FL,Palm Beach,33432, , , , ,12099,"100 N.W. 2Nd Avenue, Boca Raton, FL 33432",26.3517728,-80.08897929999999
 Mississippi Department of Transportation,Special jurisdiction,188, , , , , ,401 North West Street, , ,Jackson,MS,Hinds,39201, , , , ,28049,"401 North West Street, Jackson, MS 39201",32.3032213,-90.1841459
 Salem Police Department,Local police department,187, , , , , ,5 Park Avenue, , ,Salem,OR,Marion,97301, , , , ,41047,"5 Park Avenue, Salem, OR 97301",44.9481364,-123.0007833
-Inglewood Police Department,Local police department,187, , , , , ,One Manchester Blvd., , ,Inglewood,CA,Los Angeles,90301, , , , ,6037,"One Manchester Blvd., Inglewood, CA 90301",33.961645,-118.3595518
+Inglewood Police Department,Local police department,187, , , , , ,One Manchester Blvd., , ,Inglewood,CA,Los Angeles,90301, , , , ,6037,"One Manchester Blvd., Inglewood, CA 90301",33.9617662,-118.3583685
 Berkeley Police Department,Local police department,186, , , , , ,5850 N Hanley Rd, , ,Berkeley,CA,Alameda,94704, , , , ,6001,"5850 N Hanley Rd, Berkeley, CA 94704",37.8715226,-122.273042
-West Valley City Police Department,Local police department,186, , , , , ,3600 South Constitution Blvd, , ,West Valley City,UT,Salt Lake,84119, , , , ,49035,"3600 South Constitution Blvd, West Valley City, UT 84119",40.72477079999999,-111.9580857
+West Valley City Police Department,Local police department,186, , , , , ,3600 South Constitution Blvd, , ,West Valley City,UT,Salt Lake,84119, , , , ,49035,"3600 South Constitution Blvd, West Valley City, UT 84119",40.7247547,-111.9580953
 Tyler Police Department,Local police department,185, , , , , ,711 West Ferguson St., , ,Tyler,TX,Smith,75702, , , , ,48423,"711 West Ferguson St., Tyler, TX 75702",32.352354,-95.3078977
 New Rochelle Police Department,Local police department,185, , , , , ,475 North Avenue, , ,New Rochelle,NY,Westchester,10801, , , , ,36119,"475 North Avenue, New Rochelle, NY 10801",40.9190487,-73.7861348
 North Little Rock Police Dept.,Local police department,185, , , , , ,200 Pershing Blvd, , ,North Little Rock,AR,Pulaski,72114, , , , ,5119,"200 Pershing Blvd, North Little Rock, AR 72114",34.7788306,-92.2689328
@@ -793,7 +793,7 @@ Yakima Police Department,Local police department,134, , , , , ,200 S 3Rd Street,
 Berkeley County Sheriff's Office,Sheriff's office,134, , , , , ,223 N Live Oak Dr, , ,Moncks Corner,SC,Berkeley,29461, , , , ,45015,"223 N Live Oak Dr, Moncks Corner, SC 29461",33.2002712,-80.0063369
 Clark County Sheriff's Office,Sheriff's office,134, , , , , ,Po Box 296, , ,Springfield,OH,Clark,45502, , , , ,39023,"Po Box 296, Springfield, OH 45502",39.9242266,-83.8088171
 Licking County Sheriff's Office,Sheriff's office,134, , , , , ,155 E Main St, , ,Newark,OH,Licking,43055, , , , ,39089,"155 E Main St, Newark, OH 43055",40.05876749999999,-82.3949319
-East Hartford Police Department,Local police department,134, , , , , ,31 School Street, , ,East Hartford,CT,Hartford,6108, , , , ,9003,"31 School Street, East Hartford, CT 6108",41.7807875,-72.61228779999999
+East Hartford Police Department,Local police department,134, , , , , ,31 School Street, , ,East Hartford,CT,Hartford,6108, , , , ,9003,"31 School Street, East Hartford, CT 6108",41.780781,-72.6122926
 Ventura Police Department,Local police department,134, , , , , ,1425 Dowell Drive, , ,Ventura,CA,Ventura,93003, , , , ,6111,"1425 Dowell Drive, Ventura, CA 93003",34.2599016,-119.2234468
 McHenry County Sheriff's Office,Sheriff's office,134, , , , , ,407 Main St. S#303, , ,Woodstock,IL,McHenry,60098, , , , ,17111,"407 Main St. S#303, Woodstock, IL 60098",42.3165305,-88.4474132
 Jonesboro Police Department,Local police department,134, , , , , ,100 4Th St., , ,Jonesboro,AR,Craighead,72401, , , , ,5031,"100 4Th St., Jonesboro, AR 72401",35.8478682,-90.7083005
@@ -853,7 +853,7 @@ Brick Township Police,Local police department,127, , , , , ,401 Chambersbridge R
 Barrow County Sheriff's Office,Sheriff's office,127, , , , , ,30 N Broad St, , ,Winder,GA,Barrow,30680, , , , ,13013,"30 N Broad St, Winder, GA 30680",33.9923013,-83.72195889999999
 Brazoria County Sheriff's Office,Sheriff's office,127, , , , , ,3602 County Rd 45, , ,Angleton,TX,Brazoria,77515, , , , ,48039,"3602 County Rd 45, Angleton, TX 77515",29.2438635,-95.4088103
 Surprise Police Department,Local police department,127, , , , , ,"14250 W. Statler Plaza, Ste 103", , ,Surprise,AZ,Maricopa,85374, , , , ,4013,"14250 W. Statler Plaza, Ste 103, Surprise, AZ 85374",33.6297375,-112.3654922
-Whittier Police Department,Local police department,127, , , , , ,7315 S. Painter Avenue, , ,Whittier,CA,Los Angeles,90602, , , , ,6037,"7315 S. Painter Avenue, Whittier, CA 90602",33.9743041,-118.0328081
+Whittier Police Department,Local police department,127, , , , , ,7315 S. Painter Avenue, , ,Whittier,CA,Los Angeles,90602, , , , ,6037,"7315 S. Painter Avenue, Whittier, CA 90602",33.9743141,-118.0328264
 Simi Valley Police Department,Local police department,127, , , , , ,3901 Alamo Street, , ,Simi Valley,CA,Ventura,93063, , , , ,6111,"3901 Alamo Street, Simi Valley, CA 93063",34.2872211,-118.7193559
 Catawba County Sheriff's Office,Sheriff's office,126, , , , , ,100 Southwest Blvd Bldg B, , ,Newton,NC,Catawba,28658, , , , ,37035,"100 Southwest Blvd Bldg B, Newton, NC 28658",35.66216,-81.2320699
 Hattiesburg Police Department,Local police department,126, , , , , ,One Government Plaza, , ,Hattiesburg,MS,Forrest,39401, , , , ,28035,"One Government Plaza, Hattiesburg, MS 39401",31.1942138,-89.2345603
@@ -881,7 +881,7 @@ Allen County Sheriff's Office,Sheriff's office,124, , , , , ,333 N Main St,PO Bo
 Hays County Sheriff's Office,Sheriff's office,124, , , , , ,1307 Uhland Rd, , ,San Marcos,TX,Hays,78666, , , , ,48209,"1307 Uhland Rd, San Marcos, TX 78666",29.8964274,-97.9037991
 Pearland Police Department,Local police department,124, , , , , ,2703 Veterans Drive, , ,Pearland,TX,Brazoria,77584, , , , ,48039,"2703 Veterans Drive, Pearland, TX 77584",29.5580333,-95.2890917
 Broken Arrow Police Department,Local police department,124, , , , , ,P. O. Box 610, , ,Broken Arrow,OK,Tulsa,74012, , , , ,40143,"P. O. Box 610, Broken Arrow, OK 74012",36.05826630000001,-95.7932008
-Fairfield Police Department,Local police department,124, , , , , ,1 Police Plaza, , ,Fairfield,CA,Solano,94533, , , , ,6095,"1 Police Plaza, Fairfield, CA 94533",38.2527241,-122.0524383
+Fairfield Police Department,Local police department,124, , , , , ,1 Police Plaza, , ,Fairfield,CA,Solano,94533, , , , ,6095,"1 Police Plaza, Fairfield, CA 94533",38.252726,-122.052439
 Beaverton Police Department,Local police department,124, , , , , ,130 Saginaw St, , ,Beaverton,OR,Washington,97076, , , , ,41067,"130 Saginaw St, Beaverton, OR 97076",45.4869283,-122.804032
 Altamonte Springs Police Department,Local police department,124, , , , , ,225 Newburyport Avenue, , ,Altamonte Springs,FL,Seminole,32701, , , , ,12117,"225 Newburyport Avenue, Altamonte Springs, FL 32701",28.6651348,-81.3592336
 Madison Parish Sheriff's Office,Sheriff's office,123, , , , , ,100 N Cedar St, , ,Tallulah,LA,Madison,71282, , , , ,22065,"100 N Cedar St, Tallulah, LA 71282",32.4075874,-91.1870239
@@ -995,7 +995,7 @@ Jacksonville Police Department,Local police department,112, , , , , ,Po Drawer 4
 Henry County Sheriff's Office,Sheriff's office,112, , , , , ,3250 Kings Mountain Rd, , ,Martinsville,VA,Henry,24112, , , , ,51089,"3250 Kings Mountain Rd, Martinsville, VA 24112",36.7438313,-79.8942336
 Skokie Police Dept,Local police department,112, , , , , ,8350 Laramie, , ,Skokie,IL,Cook,60077, , , , ,17031,"8350 Laramie, Skokie, IL 60077",42.0332237,-87.7573556
 Sparks Police Department,Local police department,112, , , , , ,Post Office Box 186, , ,Sparks,NV,Washoe,89434, , , , ,32031,"Post Office Box 186, Sparks, NV 89434",39.5349112,-119.7526886
-Hempstead Village Police Department,Local police department,112, , , , , ,99 Nichols Court, , ,Hempstead,NY,Nassau,11550, , , , ,36059,"99 Nichols Court, Hempstead, NY 11550",40.7060923,-73.61876149999999
+Hempstead Village Police Department,Local police department,112, , , , , ,99 Nichols Court, , ,Hempstead,NY,Nassau,11550, , , , ,36059,"99 Nichols Court, Hempstead, NY 11550",40.6986257,-73.6241855
 Saratoga County Sheriff's Office,Sheriff's office,112, , , , , ,6010 County Farm Rd, , ,Ballston Spa,NY,Saratoga,12020, , , , ,36091,"6010 County Farm Rd, Ballston Spa, NY 12020",43.02031640000001,-73.87248350000002
 Taunton Police Department,Local police department,112, , , , , ,23 Summer Street, , ,Taunton,MA,Bristol,2780, , , , ,25005,"23 Summer Street, Taunton, MA 2780",41.9009271,-71.0893413
 Chapel Hill Police Department,Local police department,112, , , , , ,P.O. Box 157, , ,Chapel Hill,NC,Orange,27514, , , , ,37135,"P.O. Box 157, Chapel Hill, NC 27514",35.9722081,-79.04755589999999

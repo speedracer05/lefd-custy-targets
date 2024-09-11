@@ -1,16 +1,16 @@
-company,contact,zip,Latitude,Longitude
-Berkeley County Sheriff's Office,Lt. Geno Alterio,29461,33.146521,-79.9864071
-Blytheville Police Department,Vanessa Stewart,72315,35.8933774,-89.9066314
-Cade Fletcher Sheriff's Office,Cade Fletcher,,,
-City of Hagertown,John R Crist,,,
-City of Yoakum,Michael Pierman,,,
-FEMA - Idaho,Keith Richey,,,
-Franklin County Sheriff's Office,Rhonda Coyne,43215,39.9602601,-83.0092803
-Houston Fire-Arson,"Andrew Malheis, Tracie Watkins (AR)",,,
-Meridian Technologies,Les Little,,,
-Newton County Sheriff's Office,Mickey Kitchens,30014,33.5756821,-83.8260884
-Sahuarita Police Department ,,,,
-Shreveport Police Department,,71101,32.5099127,-93.74858739999999
-Soddy Daisy Police Department,Chief Jeff Gann,37379,35.3161809,-85.1686743
-Victoria Police Department,Capt ,77901,28.80663839999999,-96.99609249999999
-Williamson County Sheriff's Office Office,Mary Johnson,,,
+company,contact,State,Last Contact,Status,zip,Latitude,Longitude
+Berkeley County Sheriff's Office,Lt. Geno Alterio,SC,1/17/2023,Custy-5/20,29461,33.146521,-79.9864071
+Blytheville Police Department,Vanessa Stewart,AZ,10/27/2023,Custy-10/20,72315,35.8933774,-89.9066314
+FEMA - Idaho,Keith Richey,,,,,,
+Franklin County Sheriff's Office,Rhonda Coyne,NC,8/22/2024,Custy-3/24,27549,36.0730279,-78.24761459999999
+Grant Parish Sheriff's Office,Cade Fletcher,LA,2/1/2023,Custy-8/22,71417,31.5327317,-92.6387795
+Hagerstown Police Department,John R Crist,MD,,,21740,39.6268957,-77.7337628
+Houston Fire-Arson,"Andrew Malhes, Tracie Watkins (AR)",TX,,,77002,29.752554,-95.37040089999999
+Meridian Technology Center,Les Little,,,,74074,36.0737703,-97.1144039
+Newton County Sheriff's Office,Mickey Kitchens,,,,30014,33.5756821,-83.8260884
+Sahuarita Police Department ,,AZ,,,85629,31.9496301,-111.0460407
+Shreveport Police Department,,LA,8/9/2024,Lead,71101,32.5099127,-93.74858739999999
+Soddy Daisy Police Department,Chief Jeff Gann,TN,,,37379,35.3161809,-85.1686743
+Victoria Police Department,Capt ,TX,,,77901,28.80663839999999,-96.99609249999999
+Williamson County Sheriff's Office,Mary Johnson,TX,,,78626,30.6487339,-97.63311300000001
+Yoakum Police Department,Michael Pierman,TX,,,77995,29.2080028,-97.0713572
