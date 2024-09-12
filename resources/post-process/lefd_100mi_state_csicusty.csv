@@ -1,0 +1,155 @@
+Row Labels,agency_name,state,Full_Address,Count of agency_type
+Berkeley County Sheriff's Office,Beaufort County Sheriff's Office,SC,"2001 Duke St, Beaufort, SC 29902",1
+,Berkeley County Sheriff's Office,SC,"223 N Live Oak Dr, Moncks Corner, SC 29461",1
+,Charleston County Sheriff's Office,SC,"3505 Pinehaven Dr, Charleston, SC 29405",1
+,Charleston Police Department,SC,"Post Office Box 420, Charleston, SC 29403",1
+,Columbia Police Department,SC,"Po Box 10, Columbia, SC 29201",1
+,Florence County Sheriff's Office,SC,"Po Box 678, Effingham, SC 29541",1
+,Horry County Police Department,SC,"2560 N. Main Street, Suite 7, Conway, SC 29526",1
+,Lexington County Sheriff's Office,SC,"Po Box 639, Lexington, SC 29071",1
+,Mount Pleasant Police Department,SC,"P.O. Box 426, Mount Pleasant, SC 29464",1
+,Myrtle Beach Police Department,SC,"1101 Oak Street, Myrtle Beach, SC 29577",1
+,North Charleston Police Department,SC,"Po Box 62558, North Charleston, SC 29419",1
+,Richland County Sheriff's Office,SC,"211 W Market St, Columbia, SC 29223",1
+,South Carolina Department of Natural Resources,SC,"Po Box 167, Columbia, SC 29202",1
+,South Carolina Highway Patrol,SC,"10311 Wilson Blvd, Blythewood, SC 29016",1
+,South Carolina Law Enforcement Division,SC,"Po Box 21398, Columbia, SC 29221",1
+,Sumter County Sheriff's Office,SC,"107 E Hampton Ave, Sumter, SC 29150",1
+Berkeley County Sheriff's Office Count,,,,16
+Franklin County Sheriff's Office,Alamance County Sheriff's Office,NC,"109 S Maple St, Graham, NC 27253",1
+,Cary Police Department,NC,"Po Box 8005, Cary, NC 27512",1
+,Chapel Hill Police Department,NC,"P.O. Box 157, Chapel Hill, NC 27514",1
+,Cumberland County Sheriff's Office,NC,"Po Box 56, Fayetteville, NC 28301",1
+,Durham County Sheriff's Office,NC,"Po Box 170, Durham, NC 27702",1
+,Durham Police Department,NC,"86 Dover Road, Durham, NC 27701",1
+,Fayetteville Police Department,NC,"308 West Market Street, Fayetteville, NC 28301",1
+,Greensboro Police Department,NC,"1101 Main Street, Greensboro, NC 27402",1
+,Greenville Police Department,NC,"Po Box 1109, Greenville, NC 27835",1
+,Guilford County Sheriff's Office,NC,"Po Box 3427, Greensboro, NC 27402",1
+,High Point Police Department,NC,"1009 Leonard Ave., High Point, NC 27260",1
+,North Carolina Division of State Parks & Recreation,NC,"1615 Msc, Raleigh, NC 27699",1
+,North Carolina DMV Enforcement,NC,"1100 New Bern Ave., Raleigh, NC 27697",1
+,North Carolina State Bureau of Investigation,NC,"Po Box 29500, Raleigh, NC 27626",1
+,North Carolina State Highway Patrol,NC,"Archdale Building, Raleigh, NC 27611",1
+,North Carolina Wildlife Resources Commission,NC,"1717 Msc, Raleigh, NC 27699",1
+,Orange County Sheriff's Office,NC,"Po Box 1468, Hillsborough, NC 27278",1
+,Pitt County Sheriff's Office,NC,"Po Box 528, Greenville, NC 27835",1
+,Raleigh Police Department,NC,"Po Box 590, Raleigh, NC 27602",1
+,Randolph County Sheriff's Office,NC,"372 Highway Jj, Asheboro, NC 27205",1
+,Rocky Mount Police Department,NC,"Po Box 1180, Rocky Mount, NC 27802",1
+,Wake County Sheriff's Office,NC,"Po Box 550, Raleigh, NC 27602",1
+,Wilson Police Department,NC,"Po Box 454, Wilson, NC 27894",1
+Franklin County Sheriff's Office Count,,,,23
+Grant Parish Sheriff's Office,Alexandria Police Department,LA,"8236 W. Main St., Alexandria, LA 71301",1
+,Avoyelles Parish Sheriff's Office,LA,"675 Government St, Marksville, LA 71351",1
+,Bossier City Police Dept,LA,"Po Box 6216, Bossier City, LA 71171",1
+,Caddo Parish Sheriff's Office,LA,"501 Texas St Rm 101, Shreveport, LA 71101",1
+,Calcasieu Parish Sheriff's Office,LA,"Po Box 3722, Lake Charles, LA 70602",1
+,Concordia Parish Sheriff's Office,LA,"4001 Carter St Rm 7, Vidalia, LA 71373",1
+,Lafayette Parish Sheriff's Office,LA,"316 W Main St, Lafayette, LA 70501",1
+,Lafayette Police Department,LA,"Post Office Box 87, Lafayette, LA 70502",1
+,Lake Charles Police Department,LA,"Po Box 1564, Lake Charles, LA 70602",1
+,Monroe Police Department,LA,"818 W Main, Monroe, LA 71210",1
+,Ouachita Parish Sheriff's Office,LA,"400 St John St, Monroe, LA 71201",1
+,Rapides Parish Sheriff's Office,LA,"Po Box 1510, Alexandria, LA 71309",1
+,Richland Parish Sheriff's Office,LA,"708 Julia St, Rayville, LA 71269",1
+,Shreveport Police Department,LA,"1234 Texas Ave, Shreveport, LA 71101",1
+Grant Parish Sheriff's Office Count,,,,14
+Hagerstown Police Department,Annapolis Police Department,MD,"199 Taylor Ave, Annapolis, MD 21401",1
+,Anne Arundel County Police Department,MD,"8495 Veterans Highway, Millersville, MD 21108",1
+,Baltimore City School Police Dept.,MD,"200 E. North Avenue, Baltimore, MD 21202",1
+,Baltimore County Police Department,MD,"700 E. Joppa Rd, Towson, MD 21286",1
+,Baltimore Police Department,MD,"416 West Market Street, Baltimore, MD 21211",1
+,Charles County Sheriff's Office,MD,"6915 Crain Hwy, La Plata, MD 20646",1
+,Frederick County Sheriff's Office,MD,"Frederick County Sheriff'S Office, Frederick, MD 21701",1
+,Frederick Police Department,MD,"100 W. Patrick Street, Frederick, MD 21701",1
+,Harford County Sheriff's Office,MD,"45 S Main St, Bel Air, MD 21014",1
+,Howard County Police Department,MD,"3410 Courthouse Dr, Ellicott City, MD 21043",1
+,Maryland Natural Resources Police,MD,"580 Taylor Ave E-3, Annapolis, MD 21401",1
+,Maryland State Forest And Park Service,MD,"Tawes, 580 Taylor Avenue; E-3, Annapolis, MD 21401",1
+,Maryland State Police,MD,"1201 Reisterstown Rd, Pikesville, MD 21208",1
+,Maryland Transit Administration Police,MD,"1040 Park Ave, Baltimore, MD 21201",1
+,Maryland Transportation Authority Police,MD,"4330 Broening Hwy, Baltimore, MD 21222",1
+,Montgomery County Police Department,MD,"2350 Research Blvd., Rockville, MD 20850",1
+,Montgomery County Sheriff's Office,MD,"Po Box 432, Rockville, MD 20850",1
+,Prince George's County Police Department,MD,"7600 Barlowe Road, Landover, MD 20785",1
+,Prince George's County Sheriff's Office,MD,"Po Box 548, Upper Marlboro, MD 20773",1
+Hagerstown Police Department Count,,,,19
+Houston Fire-Arson,Baytown Police Department,TX,"3200 North Main, Baytown, TX 77521",1
+,Beaumont Police Department,TX,"P. O. Box 3827, Beaumont, TX 77704",1
+,Brazoria County Sheriff's Office,TX,"3602 County Rd 45, Angleton, TX 77515",1
+,Bryan Police Department,TX,"103 North Beech Street, Bryan, TX 77805",1
+,Fort Bend County Sheriff's Office,TX,"1410 Ransom Rd, Richmond, TX 77469",1
+,Galveston County Sheriff's Office,TX,"601-54Th St, Galveston, TX 77551",1
+,Galveston Police Department,TX,"P.O. Box 17251, Galveston, TX 77552",1
+,Harris County Constable Pct. 1,TX,"1302 Preston, 3Rd Floor, Houston, TX 77002",1
+,Harris County Constable Pct. 3,TX,"701 W. Baker Rd., Baytown, TX 77521",1
+,Harris County Constable Pct. 4,TX,"6831 Cypresswood Dr, Spring, TX 77379",1
+,Harris County Constable Pct. 5,TX,"17423 Katy Freeway, Houston, TX 77094",1
+,Harris County Metropolitan Transit Authority Police Dept.,TX,"810 N. San Jacinto, Houston, TX 77002",1
+,Harris County Sheriff's Office,TX,"1200 Baker St, Houston, TX 77002",1
+,Houston I.S.D. Police Dept.,TX,"3500 TAMPA STREET, Houston, TX 77021",1
+,Houston Police Department,TX,"17000 Aldine Westfield, Houston, TX 77073",1
+,Jefferson County Sheriff's Office,TX,"16001 State Route 7, Beaumont, TX 77701",1
+,Montgomery County Sheriff's Office,TX,"Po Box 432, Conroe, TX 77301",1
+,Pasadena Police Department,TX,"1114 JEFF GINN MEMORIAL DRIVE, Pasadena, TX 77506",1
+,Pearland Police Department,TX,"2703 Veterans Drive, Pearland, TX 77584",1
+,Port Arthur Police Department,TX,"P. O. Box 1089, Port Arthur, TX 77641",1
+,Sugar Land Police Department,TX,"PO BOX 110, Sugar Land, TX 77478",1
+Houston Fire-Arson Count,,,,21
+Sahuarita Police Department ,Pima County Sheriff's Dept.,AZ,"1750 E. Benson Hwy, Tucson, AZ 85714",1
+,Pinal County Sheriff's Office,AZ,"971 N Jason Lopez Circle, Bldg C, Florence, AZ 85232",1
+,Tucson Police Department,AZ,"270 South Stone Street, Tucson, AZ 85701",1
+Sahuarita Police Department  Count,,,,3
+Shreveport Police Department,Bossier City Police Dept,LA,"Po Box 6216, Bossier City, LA 71171",1
+,Bossier Parish Sheriff's Office,LA,"Po Box 850, Benton, LA 71006",1
+,Caddo Parish Sheriff's Office,LA,"501 Texas St Rm 101, Shreveport, LA 71101",1
+,Monroe Police Department,LA,"818 W Main, Monroe, LA 71210",1
+,Ouachita Parish Sheriff's Office,LA,"400 St John St, Monroe, LA 71201",1
+,Shreveport Police Department,LA,"1234 Texas Ave, Shreveport, LA 71101",1
+Shreveport Police Department Count,,,,6
+Soddy Daisy Police Department,Blount County Sheriff's Office,TN,"225 Industrial Park Rd, Maryville, TN 37804",1
+,Bradley County Sheriff's Office,TN,"107 N. Myrtle St., Cleveland, TN 37311",1
+,Chattanooga Police Department,TN,"3410 Amnicola Hwy., Chattanooga, TN 37406",1
+,Hamilton County Sheriff's Office,TN,"Po Box 764, Chattanooga, TN 37402",1
+,Knox County Sheriff's Office,TN,"Po Box 1669, Knoxville, TN 37902",1
+,Knoxville Police Department,TN,"P.O. Box 3610, Knoxville, TN 37927",1
+,Murfreesboro Police Department,TN,"302 S. Church St., Murfreesboro, TN 37130",1
+,Rutherford County Sheriff's Office,TN,"198 N Washington St, Murfreesboro, TN 37129",1
+,Wilson County Sheriff's Office,TN,"925 Pierce St, Lebanon, TN 37087",1
+Soddy Daisy Police Department Count,,,,9
+Victoria Police Department,Corpus Christi Police Department,TX,"P. O. Box 9016, Corpus Christi, TX 78469",1
+,Fort Bend County Sheriff's Office,TX,"1410 Ransom Rd, Richmond, TX 77469",1
+,Hays County Sheriff's Office,TX,"1307 Uhland Rd, San Marcos, TX 78666",1
+Victoria Police Department Count,,,,3
+Williamson County Sheriff's Office,Austin Police Department,TX,"201 1St Street Ne, Austin, TX 78768",1
+,Bexar County Sheriff's Office,TX,"200 N Comal, San Antonio, TX 78207",1
+,Bryan Police Department,TX,"103 North Beech Street, Bryan, TX 77805",1
+,Hays County Sheriff's Office,TX,"1307 Uhland Rd, San Marcos, TX 78666",1
+,Killeen Police Department,TX,"402 N. 2Nd Street, Killeen, TX 76541",1
+,McLennan County Sheriff's Office,TX,"901 Washington Avenue, Waco, TX 76701",1
+,Round Rock Police Department,TX,"2701 N. Mays St., Round Rock, TX 78665",1
+,San Antonio Police Department,TX,"214 W. Nueva St., San Antonio, TX 78207",1
+,Temple Police Department,TX,"Post Office Box 160, Temple, TX 76501",1
+,Texas Alcoholic Beverage Commission,TX,"5806 Mesa Drive, Austin, TX 78731",1
+,Texas Department of Public Safety,TX,"Attn: Cindy Torres, Hr, Austin, TX 78773",1
+,Texas Parks & Wildlife Department,TX,"4200 Smith School Rd, Austin, TX 78744",1
+,Travis County Sheriff's Office,TX,"P.O. Box 1748, Austin, TX 78767",1
+,Waco Police Department,TX,"721 N. 4Th, Waco, TX 76701",1
+,Williamson County Sheriff's Office,TX,"200 W Jefferson St, Georgetown, TX 78626",1
+Williamson County Sheriff's Office Count,,,,15
+Yoakum Police Department,Austin Police Department,TX,"201 1St Street Ne, Austin, TX 78768",1
+,Bexar County Sheriff's Office,TX,"200 N Comal, San Antonio, TX 78207",1
+,Corpus Christi Police Department,TX,"P. O. Box 9016, Corpus Christi, TX 78469",1
+,Fort Bend County Sheriff's Office,TX,"1410 Ransom Rd, Richmond, TX 77469",1
+,Harris County Constable Pct. 5,TX,"17423 Katy Freeway, Houston, TX 77094",1
+,Hays County Sheriff's Office,TX,"1307 Uhland Rd, San Marcos, TX 78666",1
+,Round Rock Police Department,TX,"2701 N. Mays St., Round Rock, TX 78665",1
+,San Antonio Police Department,TX,"214 W. Nueva St., San Antonio, TX 78207",1
+,Sugar Land Police Department,TX,"PO BOX 110, Sugar Land, TX 77478",1
+,Texas Alcoholic Beverage Commission,TX,"5806 Mesa Drive, Austin, TX 78731",1
+,Texas Department of Public Safety,TX,"Attn: Cindy Torres, Hr, Austin, TX 78773",1
+,Texas Parks & Wildlife Department,TX,"4200 Smith School Rd, Austin, TX 78744",1
+,Travis County Sheriff's Office,TX,"P.O. Box 1748, Austin, TX 78767",1
+Yoakum Police Department Count,,,,13
+Grand Total,,,,142

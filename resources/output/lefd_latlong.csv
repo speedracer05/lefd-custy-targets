@@ -59,7 +59,7 @@ Fairfax County Police Department,Local police department,1419, , , , , ,4100 Cha
 Sacramento County Sheriff's Office,Sheriff's office,1409, , , , , ,711 G St,PO Box 988, ,Sacramento,CA,Sacramento,95814, , , , ,6067,"711 G St, Sacramento, CA 95814",38.5848245,-121.4955348
 Orange County Sheriff's Office,Sheriff's office,1398, , , , , ,Po Box 1468, , ,Orlando,FL,Orange,32804, , , , ,12095,"Po Box 1468, Orlando, FL 32804",28.5747416,-81.3949264
 San Jose Police Department,Local police department,1382, , , , , ,201 W. Mission Street, , ,San Jose,CA,Santa Clara,95110, , , , ,6085,"201 W. Mission Street, San Jose, CA 95110",37.3495467,-121.9057198
-St. Louis (city) Police Dept,Local police department,1351, , , , , ,1200 Clark Ave - Room 103, , ,St Louis,MO,St. Louis City,63103, , , , ,29510,"1200 Clark Ave - Room 103, St Louis, MO 63103",38.6250772,-90.2000346
+St. Louis (city) Police Dept,Local police department,1351, , , , , ,1200 Clark Ave - Room 103, , ,St Louis,MO,St. Louis City,63103, , , , ,29510,"1200 Clark Ave - Room 103, St Louis, MO 63103",38.6018583,-90.33426759999999
 San Diego County Sheriff's Office,Sheriff's office,1322, , , , , ,Po Box 939062,9621 Ridgehaven Ct, ,San Diego,CA,San Diego,92193, , , , ,6073,"Po Box 939062, San Diego, CA 92193",32.8015902,-117.1400471
 Nashville Metro Police Department,Local police department,1315, , , , , ,200 James Robertson Pkwy., , ,Nashville,TN,Davidson,37201, , , , ,47037,"200 James Robertson Pkwy., Nashville, TN 37201",36.1677661,-86.7792858
 Indiana State Police,Primary state law enforcement agency,1315, , , , , ,100 N. Senate Avenue Igcn 301, , ,Indianapolis,IN,Marion,46204, , , , ,18097,"100 N. Senate Avenue Igcn 301, Indianapolis, IN 46204",39.7691722,-86.1650219
@@ -138,7 +138,7 @@ Polk County Sheriff's Office,Sheriff's office,600, , , , , ,Po Box 69, , ,Bartow
 St. Paul Police Department,Local police department,598, , , , , ,P O  Box 66, , ,St. Paul,MN,Ramsey,55101, , , , ,27123,"P O  Box 66, St. Paul, MN 55101",44.9513188,-93.0901841
 Oregon State Police,Primary state law enforcement agency,596, , , , , ,4190 Aumsville Highway Se, , ,Salem,OR,Marion,97317, , , , ,41047,"4190 Aumsville Highway Se, Salem, OR 97317",44.8928987,-122.9558441
 Mississippi Highway Safety Patrol,Primary state law enforcement agency,594, , , , , ,1900 E Woodrow Wilson Boulevard,Human Resources, ,Jackson,MS,Hinds,39216, , , , ,28049,"1900 E Woodrow Wilson Boulevard, Jackson, MS 39216",32.3278507,-90.16235929999999
-Greensboro Police Department,Local police department,593, , , , , ,1101 Main Street, , ,Greensboro,NC,Guilford,27402, , , , ,37081,"1101 Main Street, Greensboro, NC 27402",35.9963855,-79.91852449999999
+Greensboro Police Department,Local police department,593, , , , , ,1101 Main Street, , ,Greensboro,NC,Guilford,27402, , , , ,37081,"1101 Main Street, Greensboro, NC 27402",36.07,-79.95
 Calcasieu Parish Sheriff's Office,Sheriff's office,592, , , , , ,Po Box 3722,5400 E Broad St, ,Lake Charles,LA,Calcasieu,70602, , , , ,22019,"Po Box 3722, Lake Charles, LA 70602",30.2268519,-93.2132614
 Cobb County Police Department,Local police department,590, , , , , ,140 North Marietta Parkway, , ,Marietta,GA,Cobb,30060, , , , ,13067,"140 North Marietta Parkway, Marietta, GA 30060",33.9576978,-84.54836259999999
 Los Angeles World Airports Police,Special jurisdiction,577, , , , , ,6150 Century Blvd,3rd Fl, ,Los Angeles,CA,Los Angeles,90045, , , , ,6037,"6150 Century Blvd, Los Angeles, CA 90045",33.9454115,-118.3920428
@@ -310,7 +310,7 @@ Clackamas County Sheriff's Office,Sheriff's office,319, , , , , ,2223 Kaen Rd, ,
 Hennepin County Sheriff's Office,Sheriff's office,319, , , , , ,350 S 5Th St,Room 6 Courthouse, ,Minneapolis,MN,Hennepin,55415, , , , ,27053,"350 S 5Th St, Minneapolis, MN 55415",44.9772839,-93.2652365
 Harris County Constable Pct. 5,Constable/marshal,318, , , , , ,17423 Katy Freeway, , ,Houston,TX,Harris,77094, , , , ,48201,"17423 Katy Freeway, Houston, TX 77094",29.783774,-95.6824889
 Hollywood Police Department,Local police department,316, , , , , ,Post Office Box 308, , ,Hollywood,FL,Broward,33021, , , , ,12011,"Post Office Box 308, Hollywood, FL 33021",26.0197012,-80.1819268
-Alexandria Police Department,Local police department,315, , , , , ,8236 W. Main St., , ,Alexandria,VA,Alexandria City,22314, , , , ,51510,"8236 W. Main St., Alexandria, VA 22314",38.8048355,-77.0469214
+Alexandria Police Department,Local police department,315, , , , , ,8236 W. Main St., , ,Alexandria,VA,Alexandria City,22314, , , , ,51510,"8236 W. Main St., Alexandria, VA 22314",38.7999723,-77.0506896
 Monterey County Sheriff's Office,Sheriff's office,315, , , , , ,1414 Natividad Rd, , ,Salinas,CA,Monterey,93906, , , , ,6053,"1414 Natividad Rd, Salinas, CA 93906",36.7011471,-121.6307691
 New Hanover County Sheriff's Office,Sheriff's office,315, , , , , ,3950 Juvenile Center Rd, , ,Castle Hayne,NC,New Hanover,28429, , , , ,37129,"3950 Juvenile Center Rd, Castle Hayne, NC 28429",34.325154,-77.89455099999999
 Amarillo Police Department,Local police department,311, , , , , ,200 E. Third Avenue, , ,Amarillo,TX,Potter,79101, , , , ,48375,"200 E. Third Avenue, Amarillo, TX 79101",35.2109392,-101.8377922
@@ -428,7 +428,7 @@ Tulsa County Sheriff's Office,Sheriff's office,237, , , , , ,500 S Denver Ave, ,
 Dallas/Fort Worth International Airport D.P.S.,Special jurisdiction,237, , , , , ,P. O. Box 619428, , ,D/Fw Airport,TX,Dallas,75261, , , , ,48113,"P. O. Box 619428, D/Fw Airport, TX 75261",32.8990434,-97.0335765
 Portsmouth Police Department,Local police department,235, , , , , ,700 Crawford St., , ,Portsmouth,VA,Portsmouth City,23704, , , , ,51740,"700 Crawford St., Portsmouth, VA 23704",36.8336144,-76.2981223
 Torrance Police Department,Local police department,235, , , , , ,3300 Civic Center Drive, , ,Torrance,CA,Los Angeles,90503, , , , ,6037,"3300 Civic Center Drive, Torrance, CA 90503",33.8397829,-118.3424965
-Ramsey County Sheriff's Office,Sheriff's office,235, , , , , ,222 Walnut St W, , ,Saint Paul,MN,Ramsey,55101, , , , ,27123,"222 Walnut St W, Saint Paul, MN 55101",44.9391053,-93.10022800000002
+Ramsey County Sheriff's Office,Sheriff's office,235, , , , , ,222 Walnut St W, , ,Saint Paul,MN,Ramsey,55101, , , , ,27123,"222 Walnut St W, Saint Paul, MN 55101",44.9391046,-93.10022880000001
 Prince George's County Sheriff's Office,Sheriff's office,233, , , , , ,Po Box 548, , ,Upper Marlboro,MD,Prince Georges,20773, , , , ,24033,"Po Box 548, Upper Marlboro, MD 20773",38.82,-76.75
 Hampton Police Department,Local police department,232, , , , , ,40 Lincoln St., , ,Hampton,VA,Hampton City,23669, , , , ,51650,"40 Lincoln St., Hampton, VA 23669",37.0284797,-76.3440676
 Chatham County Sheriff's Office,Sheriff's office,232, , , , , ,1050 Carl Griffin Dr,PO Box 10026, ,Savannah,GA,Chatham,31405, , , , ,13051,"1050 Carl Griffin Dr, Savannah, GA 31405",32.0667768,-81.166573
@@ -540,7 +540,7 @@ Peoria Police Department,Local police department,189, , , , , ,8351 W. Cinnabar 
 Edison Police,Local police department,189, , , , , ,100 Municipal Boulevard, , ,Edison,NJ,Middlesex,8817, , , , ,34023,"100 Municipal Boulevard, Edison, NJ 8817",40.5273427,-74.3937286
 Monroe Police Department,Local police department,188, , , , , ,818 W Main, , ,Monroe,LA,Ouachita,71210, , , , ,22073,"818 W Main, Monroe, LA 71210",32.5,-92.11
 Cabarrus County Sheriff's Office,Sheriff's office,188, , , , , ,Po Box 525, , ,Concord,NC,Cabarrus,28026, , , , ,37025,"Po Box 525, Concord, NC 28026",35.4109398,-80.5777935
-Lake County Sheriff's Office,Sheriff's office,188, , , , , ,513 CENTER STREET, , ,Waukegan,IL,Lake,60085, , , , ,17097,"513 CENTER STREET, Waukegan, IL 60085",42.3706101,-87.8367953
+Lake County Sheriff's Office,Sheriff's office,188, , , , , ,513 CENTER STREET, , ,Waukegan,IL,Lake,60085, , , , ,17097,"513 CENTER STREET, Waukegan, IL 60085",42.3706101,-87.83679269999999
 Boca Raton Police Department,Local police department,188, , , , , ,100 N.W. 2Nd Avenue, , ,Boca Raton,FL,Palm Beach,33432, , , , ,12099,"100 N.W. 2Nd Avenue, Boca Raton, FL 33432",26.3517728,-80.08897929999999
 Mississippi Department of Transportation,Special jurisdiction,188, , , , , ,401 North West Street, , ,Jackson,MS,Hinds,39201, , , , ,28049,"401 North West Street, Jackson, MS 39201",32.3032213,-90.1841459
 Salem Police Department,Local police department,187, , , , , ,5 Park Avenue, , ,Salem,OR,Marion,97301, , , , ,41047,"5 Park Avenue, Salem, OR 97301",44.9481364,-123.0007833
